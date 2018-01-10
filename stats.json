@@ -1,16 +1,20 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-eb2de65f712390cf8912.js",
-      "component---src-pages-index-js-eb2de65f712390cf8912.js.map"
+      "component---src-pages-index-js-95396e3d88b9d3494503.js",
+      "component---src-pages-index-js-95396e3d88b9d3494503.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e93196dc953b40522e2a.js",
-      "component---src-layouts-index-js-e93196dc953b40522e2a.js.map"
+      "component---src-layouts-index-js-8f2ad5a6fae8af582877.js",
+      "component---src-layouts-index-js-8f2ad5a6fae8af582877.js.map"
+    ],
+    "component---src-pages-programming-js": [
+      "component---src-pages-programming-js-907907bb73fd051841e3.js",
+      "component---src-pages-programming-js-907907bb73fd051841e3.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -25,22 +29,26 @@
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-68aad81503ae45628ade.js",
-      "commons-68aad81503ae45628ade.js.map"
+      "commons-1931d0d53c110a774949.js",
+      "commons-1931d0d53c110a774949.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---programming": [
+      "path---programming-a0e39f21c11f6a62c5ab.js",
+      "path---programming-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-bc9d7f33efded2bab2e0.js",
+      "app-9a6aedc5b4c0ce26624a.js",
       "build-js-styles.css",
-      "app-bc9d7f33efded2bab2e0.js.map",
+      "app-9a6aedc5b4c0ce26624a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-photos-js": [
-      "component---src-pages-photos-js-0787c2e8a007e3938551.js",
-      "component---src-pages-photos-js-0787c2e8a007e3938551.js.map"
+      "component---src-pages-photos-js-b32bfd2e24bac46c4944.js",
+      "component---src-pages-photos-js-b32bfd2e24bac46c4944.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
